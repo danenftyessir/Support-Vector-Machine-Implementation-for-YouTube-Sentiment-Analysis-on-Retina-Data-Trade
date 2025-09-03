@@ -49,13 +49,6 @@ Repositori ini berisi implementasi **algoritma Support Vector Machine (SVM)** un
 Dataset berupa komentar publik dari YouTube yang membahas isu penyerahan data retina untuk uang. Data diproses melalui tahap preprocessing sebelum digunakan untuk training model.  
 
 ## Hasil & Evaluasi  
-Model SVM dievaluasi dengan metrik klasifikasi:  
-
-| Metrik    | Nilai |
-|-----------|-------|
-| Akurasi   | 0.87  |
-| Presisi   | 0.85  |
-| Recall    | 0.86  |
-| F1-Score  | 0.85  |
+SVM Accuracy: 70.27%
 
 Hasil evaluasi dapat dilihat di folder `results/`.  
